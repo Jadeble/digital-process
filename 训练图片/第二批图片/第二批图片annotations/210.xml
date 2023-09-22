@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coil</folder>
+	<filename>210.jpg</filename>
+	<path>d:\Users\Administrator\Desktop\worker\test\coil\coil192.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>165</ymin>
+			<xmax>1403</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+</annotation>

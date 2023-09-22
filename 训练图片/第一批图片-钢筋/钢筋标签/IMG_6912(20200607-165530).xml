@@ -1,0 +1,12 @@
+<annotation>
+	<filename>IMG_6912(20200607-165530).jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>235</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>coil</name><number>0</number></object><object><name>brickwork</name><number>0</number></object><object><name>rebar</name><number>13</number></object></annotation>

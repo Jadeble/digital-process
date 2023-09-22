@@ -1,0 +1,12 @@
+<annotation>
+	<filename>coil405.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>742</width>
+		<height>649</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>coil</name><number>21</number></object><object><name>brickwork</name><number>0</number></object><object><name>rebar</name><number>0</number></object></annotation>

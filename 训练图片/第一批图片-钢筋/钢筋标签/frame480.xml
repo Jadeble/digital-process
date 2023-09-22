@@ -1,0 +1,12 @@
+<annotation>
+	<filename>frame480.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>coil</name><number>0</number></object><object><name>brickwork</name><number>0</number></object><object><name>rebar</name><number>7</number></object></annotation>
